@@ -1,4 +1,6 @@
 ---
+banner: img/banners/banner-6.jpg
+description: Short description on our project
 tags:
 - sleep
 - language
@@ -7,7 +9,6 @@ tags:
 - academic achievement
 title: Early Years Sleep project
 ---
-
 
 Around 25% of children under three have sleep problems, such as difficulties getting to sleep and frequent night waking. Poor sleep during the early years has immediate consequences for behaviour and mood, as well as having a deleterious effect on parent health and family functioning; however, we have a relatively poorer understanding of how persistent early sleep difficulties are and whether they influence future outcomes such as school grades and mental health. Identifying whether and which early sleep difficulties impose a risk to later academic and mental health outcomes is of societal importance: Such research has the potential to reveal early risk factors for later academic problems and mental ill health that can be mitigated through raising awareness of the importance of sleep during this critical period and identifying routes to support. It would also further emphasize the need to provide guidance on sleep to early years providers, which is currently lacking.
 
