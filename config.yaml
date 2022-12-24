@@ -264,9 +264,8 @@ menu:
 params:
   about_us: <p>Pellentesque habitant morbi tristique senectus et netus et malesuada
     fames ac turpis egestas.</p>
-  address: "<p class=\"text-uppercase\"><strong>Universal Ltd.</strong>\r\n        <br>13/25
-    New Avenue\r\n        <br>Newtown upon River\r\n        <br>45Y 73J\r\n        <br>England\r\n
-    \       <br>\r\n        <strong>Great Britain</strong>\r\n      </p>\r\n      "
+  address: "<p class=\"text-uppercase\"><strong>Department of York</strong>\r\n        <br> University of York
+    \r\n        <br> Heslington, York\r\n        <br> YO10 5DD\r\n        <strong>, UK</strong>\r\n      </p>\r\n      "
   author: DevCows
   carouselCustomers:
     auto_play: no
@@ -313,7 +312,7 @@ params:
   googleRecaptchaKey: site_key_for_google_recaptcha
   latitude: '-12.043333'
   logo: img/logo.png
-  logo_small: img/logo-small.png
+  logo_small: img/logo.png
   logo_text: Universal
   longitude: '-77.028333'
   mainSections: blog
